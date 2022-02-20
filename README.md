@@ -7,3 +7,11 @@ Una vez realizada la instalacion del compilador podemos realizar este comando pa
 ```bash
     gcc <nombre_archivo.c> -o <nombre_que_se_quiere_dar>
 ```
+
+## Basicos ciclos de vida de SHELL
+
+<ul>
+    <li>
+        <b>Inicialización:</b> 
+    </li>
+</ul>
